@@ -1,0 +1,10 @@
+<meta>
+
+    <script src="library/drugs-g.lua" type="shared" cache="false" />
+    <script src="library/drugs-s.lua" type="server" cache="false" />
+    <script src="library/drugs-c.lua" type="client" cache="false" />
+    <script src="library/drugs-utils.lua" type="client" cache="false" />
+
+    <file src="assets/fonts/Inter-Bold.ttf" />
+
+</meta>

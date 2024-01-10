@@ -1,0 +1,7 @@
+Caso For Usar o Mysql Pelo PHPMyAdmin, Upe o Arquivo: db_tabela_peds.sql,
+Para Ter Acesso As Tabelas Do Sistema De Drogas
+
+O Sistema Você Pode Vincular Algum Sistema De Comprar Drogas Ou Inventario Para
+Testes.
+
+Script Recomendado Para Estudos Ou Testar.
