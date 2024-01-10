@@ -1,5 +1,5 @@
 --/ Connection DB /--
-local dbMysql = dbConnect("mysql", "dbname=drugas;host=localhost;charshet=utf-8", "root", "")
+local dbMysql = dbConnect("mysql", "dbname=drugas;host=SEUHOST;charshet=utf-8", "SEUUSER", "SUASENHA")
 
 function loadPeds()
     local query = dbQuery(dbMysql, "SELECT * FROM peds")
